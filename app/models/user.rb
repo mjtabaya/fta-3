@@ -4,5 +4,4 @@ class User < ApplicationRecord
          :registerable,
          :rememberable,
          :validatable
-  has_secure_password
 end
