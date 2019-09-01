@@ -1,5 +1,8 @@
 {
   "name": "fta-3",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "homepage": "."
 }
